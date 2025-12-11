@@ -1,86 +1,208 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FGO Servant DataTable (Live API)</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gundam/Gunpla Hangar UI</title>
 
-    <!-- Datatables + JQuery -->
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/buttons/2.4.1/css/buttons.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/select/1.7.0/css/select.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 
-    <style>
-        img.servant-icon {
-            width: 50px;
-            border-radius: 6px;
-        }
-    </style>
+<style>
+body {
+    background: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop') no-repeat center center fixed;
+    background-size: cover;
+    color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+}
+body::before {
+    content: "";
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(10, 15, 30, 0.85);
+    z-index: -1;
+}
+h2 { font-family: 'Orbitron', sans-serif; color: #00d2ff; text-transform: uppercase; letter-spacing: 2px; text-shadow: 0 0 10px rgba(0, 210, 255, 0.7); }
+.glass-panel {
+    background: rgba(20, 25, 40, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    padding: 25px;
+    margin-top: 20px;
+}
+.nav-tabs { border-bottom: 1px solid rgba(0, 210, 255, 0.3); }
+.nav-link { color: #a0a0a0; font-family: 'Orbitron', sans-serif; border: none; transition: all 0.3s; }
+.nav-link:hover { color: #fff; }
+.nav-link.active {
+    color: #00d2ff !important;
+    background: rgba(0, 210, 255, 0.1) !important;
+    border: 1px solid rgba(0, 210, 255, 0.3);
+    border-bottom: none;
+}
+table.dataTable { border-collapse: separate !important; border-spacing: 0 8px !important; }
+.table { --bs-table-bg: transparent; --bs-table-color: #e0e0e0; }
+thead th { border-bottom: 2px solid #00d2ff !important; color: #00d2ff; font-family: 'Orbitron', sans-serif; font-size: 0.9rem; text-transform: uppercase; }
+tbody tr {
+    background: rgba(255, 255, 255, 0.05) !important;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+tbody tr:hover {
+    transform: scale(1.01);
+    background: rgba(0, 210, 255, 0.1) !important;
+    box-shadow: 0 0 15px rgba(0, 210, 255, 0.2);
+    cursor: pointer;
+}
+table.dataTable tbody tr.selected > * {
+    box-shadow: inset 0 0 0 9999px rgba(0, 210, 255, 0.2) !important;
+    color: #fff !important;
+    border-left: 4px solid #00d2ff;
+}
+input[type="text"] { background: rgba(0, 0, 0, 0.3); border: 1px solid #444; color: #fff; padding: 5px; border-radius: 4px; }
+input[type="text"]:focus { outline: none; border-color: #00d2ff; box-shadow: 0 0 5px rgba(0, 210, 255, 0.5); }
+.btn-custom { background: linear-gradient(45deg, #00d2ff, #007bff); border: none; color: white; font-family: 'Orbitron', sans-serif; font-size: 0.8rem; }
+.btn-danger-custom { background: linear-gradient(45deg, #ff416c, #ff4b2b); border: none; }
+.poster-img { width: 60px; height: 85px; object-fit: cover; border-radius: 6px; border: 1px solid rgba(255,255,255,0.2); }
+.page-item.active .page-link { background-color: #00d2ff; border-color: #00d2ff; color: #000; }
+.page-link { background-color: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.1); color: #fff; }
+</style>
 </head>
 <body>
 
-<h2>FGO Servants (Live NA API)</h2>
+<div class="container pb-5">
+    <div class="d-flex justify-content-between align-items-center mt-4 mb-2">
+        <h2><i class="fa-solid fa-robot me-2"></i> Gunpla Hangar Database</h2>
+        <div class="text-end">
+            <span class="badge bg-secondary p-2" id="system-status">SYSTEM ONLINE</span>
+        </div>
+    </div>
 
-<table id="servantTable" class="display">
-    <thead>
-        <tr>
-            <th>ID</th>
-            <th>Icon</th>
-            <th>Name</th>
-            <th>Class</th>
-            <th>Rarity</th>
-            <th>Attribute</th>
-            <th>Release Year</th>
-        </tr>
-    </thead>
-    <tbody></tbody>
-</table>
+    <div class="glass-panel">
+        <div class="d-flex justify-content-between mb-3">
+            <button id="deleteRowBtn" class="btn btn-danger-custom btn px-4"><i class="fa-solid fa-trash-can me-2"></i>Scrap Unit</button>
+            <div id="loadingIndicator" class="text-info" style="display:none;"><i class="fa-solid fa-spinner fa-spin me-2"></i>Accessing Database...</div>
+        </div>
+
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#tab1-content" type="button" role="tab">Active Units</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#tab2-content" type="button" role="tab">Reserve Units</button>
+            </li>
+        </ul>
+
+        <div class="tab-content pt-3" id="myTabContent">
+            <div class="tab-pane fade show active" id="tab1-content" role="tabpanel">
+                <table id="example1" class="table table-hover" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Unit Image</th>
+                            <th>Code Name</th>
+                            <th>Grade/Type</th>
+                            <th>Episodes</th>
+                            <th>Score</th>
+                            <th>Status</th>
+                            <th>Rating</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" id="tab2-content" role="tabpanel">
+                <table id="example2" class="table table-hover" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Unit Image</th>
+                            <th>Code Name</th>
+                            <th>Grade/Type</th>
+                            <th>Episodes</th>
+                            <th>Score</th>
+                            <th>Status</th>
+                            <th>Rating</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.colVis.min.js"></script>
+<script src="https://cdn.datatables.net/select/1.7.0/js/dataTables.select.min.js"></script>
 
 <script>
-$(document).ready(function () {
+$(document).ready(function() {
 
-    // Load servant data directly from API
-    $.getJSON("https://api.atlasacademy.io/nice/NA/servant", function (data) {
+function initTable(dataSet) {
+    var tableConfig = {
+        data: dataSet,
+        columns: [
+            { data: 'images.jpg.image_url', render: d => d ? `<img src="${d}" class="poster-img">` : 'No Image' },
+            { data: 'title' },
+            { data: 'type' },
+            { data: 'episodes' },
+            { data: 'score', render: d => d ? `<i class="fa-solid fa-star text-info"></i> ${d}` : 'N/A' },
+            { data: 'status', render: d => {
+                if(d.includes('Finished')) return '<span class="badge bg-success">Operational</span>';
+                if(d.includes('Airing')) return '<span class="badge bg-warning text-dark">In Production</span>';
+                return `<span class="badge bg-secondary">${d}</span>`;
+            }},
+            { data: 'rating' }
+        ],
+        select: true,
+        pageLength: 5,
+        dom: '<"top-pagination-container"p>Bqt<"bottom-controls"li>',
+        buttons: [{ extend: 'colvis', text: '<i class="fa-solid fa-columns"></i> Columns', className: 'btn btn-custom btn-sm mb-2' }],
+        initComplete: function() {
+            this.api().columns().every(function() {
+                var column = this;
+                var title = $(column.header()).text();
+                if(title === 'Unit Image' || title === 'Status') return;
+                $('<input type="text" placeholder="Scan '+title+'">').appendTo($(column.header()))
+                    .on('keyup change clear', function() { column.search(this.value).draw(); })
+                    .on('click', e => e.stopPropagation());
+            });
+        }
+    };
+    var table1 = $('#example1').DataTable(tableConfig);
+    var table2 = $('#example2').DataTable(tableConfig);
 
-        // Convert API response into DataTable rows
-        const rows = data.map(servant => {
-
-            // Icon URL (first image)
-            const icon = servant.extraAssets?.faces?.ascension?.[1] || "";
-
-            // Release year extraction
-            const year = servant.releaseDate
-                ? new Date(servant.releaseDate).getFullYear()
-                : "N/A";
-
-            return [
-                servant.id,
-                icon ? `<img src="${icon}" class="servant-icon">` : "",
-                servant.name,
-                servant.className,
-                servant.rarity,
-                servant.attribute,
-                year
-            ];
-        });
-
-        // Initialize DataTable
-        $("#servantTable").DataTable({
-            data: rows,
-            columns: [
-                { title: "ID" },
-                { title: "Icon" },
-                { title: "Name" },
-                { title: "Class" },
-                { title: "Rarity" },
-                { title: "Attribute" },
-                { title: "Release Year" }
-            ]
-        });
-
-    }).fail(function () {
-        alert("Failed to fetch servant data from API.");
+    $('#deleteRowBtn').click(function() {
+        var selected1 = table1.rows('.selected');
+        var selected2 = table2.rows('.selected');
+        if(selected1.count()===0 && selected2.count()===0) { alert("No Unit Selected."); return; }
+        if(confirm("Scrap selected unit(s)?")) { selected1.remove().draw(false); selected2.remove().draw(false); }
     });
+
+    $('button[data-bs-toggle="tab"]').on('shown.bs.tab', () => $.fn.dataTable.tables({ visible:true, api:true }).columns.adjust());
+}
+
+$('#loadingIndicator').show();
+$.ajax({
+    url: 'https://api.jikan.moe/v4/anime?q=gundam&order_by=popularity',
+    method: 'GET',
+    success: function(res) {
+        initTable(res.data);
+        $('#loadingIndicator').hide();
+    },
+    error: function() {
+        $('#loadingIndicator').html('<span class="text-danger">Connection Failed</span>');
+    }
+});
 
 });
 </script>

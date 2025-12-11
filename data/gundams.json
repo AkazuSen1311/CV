@@ -1,0 +1,1010 @@
+{
+  "info": {
+    "count": 828,
+    "pages": 9,
+    "next": "https://gundam-api.pages.dev/api/gundams?page=2",
+    "prev": null
+  },
+  "results": [
+    {
+      "id": 1,
+      "wikiName": "RX-78-1_Prototype_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78-1_Prototype_Gundam",
+      "name": "RX-78-1 Prototype Gundam",
+      "header": "The RX-78-1 Prototype Gundam is a mobile suit introduced in the original design series Mobile Suit Variation. It is the predecessor of the RX-78-2 Gundam.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/54/Prototype_Gundam_F.png",
+      "pilots": "Farrell Iha"
+    },
+    {
+      "id": 2,
+      "wikiName": "FA-78%EF%BC%BBG%EF%BC%BD_Full_Armor_Gundam_Ground_Type",
+      "wikiUrl": "https://gundam.fandom.com/wiki/FA-78%EF%BC%BBG%EF%BC%BD_Full_Armor_Gundam_Ground_Type",
+      "name": "FA-78%EF%BC%BBG%EF%BC%BD Full Armor Gundam Ground Type",
+      "header": "The FA-78[G] Full Armor Gundam Ground Type is a mobile suit introduced in MSV-R.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/32/Gundamground01.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 3,
+      "wikiName": "RX-78(G)E_Gundam_EX",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78(G)E_Gundam_EX",
+      "name": "RX-78(G)E Gundam EX",
+      "header": "“ It's like a shadow you can't shake off. ” &#8212;Iria Solari describes what Gundam EX is like to Maj. Gen. Yuri Kellerne.&#91;1&#93; The RX-78(G)E Gundam EX (ガンダムEX, Gandamu EX?) was an Earth Federation mobile suit introduced in the ONA Mobile Suit Gundam: Requiem for Vengeance.&#91;2&#93;",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/9/92/RfV_Mecha_RX-78%28G%29E_Gundam_EX_p01_design_front_20241124.jpg",
+      "pilots": "Gundam Pilot"
+    },
+    {
+      "id": 4,
+      "wikiName": "RX-78-2_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78-2_Gundam",
+      "name": "RX-78-2 Gundam",
+      "header": "“ Damn! That Federation mobile suit is a monster! ” &#8212;Char Aznable The RX-78-2 Gundam (RX-78-2 ガンダム, Āru Ekkusu Nanajū Hachi no Ni Gandamu?) is the titular mobile suit of the anime Mobile Suit Gundam. Part of the RX-78 Gundam series, it was primarily piloted by Amuro Ray.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/36/01._RX-78-2_Gundam.jpg",
+      "pilots": "Amuro Ray, MSG, Sayla Mass, MSG, Ryu Jose, MSG II SoS, Shiro Kyoda, Takeshi Iori, Hal Vizardt, Tristan, Hiroto Kuga, Mercury Promenade, Tokio Kurono, Aiko Anna Pruna"
+    },
+    {
+      "id": 5,
+      "wikiName": "Half_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Half_Gundam",
+      "name": "Half Gundam",
+      "header": "The Half Gundam is a prototype general purpose mobile suit that appears in the one-shot manga Mobile Suit Zeta Gundam 1/2 UC 0087: Another Story. The unit is piloted by Kan Woo.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/2/27/Half_Gundam.png",
+      "pilots": "Kan Woo"
+    },
+    {
+      "id": 6,
+      "wikiName": "PF-78-1_Perfect_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/PF-78-1_Perfect_Gundam",
+      "name": "PF-78-1 Perfect Gundam",
+      "header": "The PF-78-1 Perfect Gundam is a Gunpla based on RX-78-2 Gundam and introduced in the manga Plamo-Kyoshiro, where it is built and piloted by Shiro Kyoda. It later became a mobile suit as part of the original design series Mobile Suit Variations (MSV). It was designed by Kunio Okawara, and later redesigned by Hajime Katoki for Gundam Fix Figuration.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/d/d5/Pf-78-1.jpg",
+      "pilots": "Shiro Kyoda, Takeshi Iori"
+    },
+    {
+      "id": 7,
+      "wikiName": "RX-78-3_G-3_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78-3_G-3_Gundam",
+      "name": "RX-78-3 G-3 Gundam",
+      "header": "The RX-78-3 G-3 Gundam is a variation of RX-78-2 Gundam introduced in the novelization of Mobile Suit Gundam.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/9/95/Gundam_G3_Front_HD.png",
+      "pilots": "Amuro Ray, Giorgio Miguel"
+    },
+    {
+      "id": 8,
+      "wikiName": "RX-78-4_Gundam_Unit_4_%22G04%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78-4_Gundam_Unit_4_%22G04%22",
+      "name": "RX-78-4 Gundam Unit 4 %22G04%22",
+      "header": "The RX-78-4 Gundam Unit 4 (aka \"G04\") is a mobile suit introduced in the M-MSV original design series. Its design was updated for the video game Mobile Suit Gundam: Encounters in Space and the manga Mobile Suit Gundam Side Story: Space, To the End of a Flash.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/8/88/Rx-78-4_1.JPG",
+      "pilots": "Luce Cassel"
+    },
+    {
+      "id": 9,
+      "wikiName": "RX-78-5_Gundam_Unit_5_%22G05%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78-5_Gundam_Unit_5_%22G05%22",
+      "name": "RX-78-5 Gundam Unit 5 %22G05%22",
+      "header": "The RX-78-5 Gundam Unit 5 (aka \"G05\") is a mobile suit introduced in the M-MSV original design series. Its design was updated for the video game Mobile Suit Gundam: Encounters in Space as well as the manga Mobile Suit Gundam Side Story: Space, To the End of a Flash.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/a/ad/Rx-78-5_1.JPG",
+      "pilots": "Ford Romfellow"
+    },
+    {
+      "id": 10,
+      "wikiName": "RX-78-6_Gundam_Unit_6",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78-6_Gundam_Unit_6",
+      "name": "RX-78-6 Gundam Unit 6",
+      "header": "The RX-78-6 Gundam Unit 6, (also known as Gundam \"Mudrock\" or Gundam G06), is a mobile suit from Kunio Okawara's M-MSV original design series. Its design was updated for Mobile Suit Gundam: Zeonic Front by Keiichiro Katagiri.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/4/4d/Zeonic_Front_Mudrock.jpg",
+      "pilots": "Agar"
+    },
+    {
+      "id": 11,
+      "wikiName": "RX-78-7_7th_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78-7_7th_Gundam",
+      "name": "RX-78-7 7th Gundam",
+      "header": "The RX-78-7 7th Gundam (aka RX-78-7 Gundam) was intended to be the seventh mobile suit in the RX-78 Gundam series, belonging to the Second Lot of Project V models. It first appeared as a part of Kunio Okawara's M-MSV. It was redesigned and featured in Mobile Suit Gundam: Battlefield Record U.C. 0081.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/52/RX-78-7_Gundam_-_Front_View.png",
+      "pilots": "Cherie Allison, Samanan, Hugues Courand"
+    },
+    {
+      "id": 12,
+      "wikiName": "FA-78-3_Full_Armor_7th_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/FA-78-3_Full_Armor_7th_Gundam",
+      "name": "FA-78-3 Full Armor 7th Gundam",
+      "header": "The FA-78-3 Full Armor 7th Gundam is a mobile suit introduced in M-MSV. It was later redesigned and appears in the video game Mobile Suit Gundam: Battlefield Record U.C. 0081.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/f/fb/FA-78-3_Full_Armor_7th_Gundam_Front.png",
+      "pilots": "Hugues Courand"
+    },
+    {
+      "id": 13,
+      "wikiName": "HFA-78-3_Heavy_Full_Armor_7th_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/HFA-78-3_Heavy_Full_Armor_7th_Gundam",
+      "name": "HFA-78-3 Heavy Full Armor 7th Gundam",
+      "header": "The HFA-78-3 Heavy Full Armor 7th Gundam (also FHA-78-3 Heavy Full Armor 7th Gundam) An upgraded armor unit for FA-78-3 Full Armor 7th Gundam, that first appeared as a part of Kunio Okawara's Missing Mobile Suit Variations (M-MSV). Its design were updated for Mobile Suit Gundam: Battlefield Record U.C. 0081 video game, by Hajime Katoki.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/c/c5/HFA-78-3_Heavy_Full_Armor_7th_Gundam_Front.png",
+      "pilots": "Hugues Courand, EX-"
+    },
+    {
+      "id": 14,
+      "wikiName": "RX-78/C.A._Casval%27s_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78/C.A._Casval%27s_Gundam",
+      "name": "RX-78/C.A. Casval%27s Gundam",
+      "header": "The RX-78/C.A. Casval's Gundam is a mobile suit introduced in the video game Gihren's Greed.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/4/4d/Rx-78-casval.jpg",
+      "pilots": "Casval Rem Deikun"
+    },
+    {
+      "id": 15,
+      "wikiName": "PF-78-3_Perfect_Gundam_III",
+      "wikiUrl": "https://gundam.fandom.com/wiki/PF-78-3_Perfect_Gundam_III",
+      "name": "PF-78-3 Perfect Gundam III",
+      "header": "The PF-78-3 Perfect Gundam III \"Red Warrior\" is a plastic model that appeared in the manga Plamo-Kyoshiro. It was designed by Kunio Okawara and later by Hajime Katoki for the Gundam Fix Figuration version.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/b/bd/PF-78-3_Perfect_Gundam_III_Front_%28PK%29.png",
+      "pilots": "Shiro Kyoda"
+    },
+    {
+      "id": 16,
+      "wikiName": "FA-78-1_Full_Armor_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/FA-78-1_Full_Armor_Gundam",
+      "name": "FA-78-1 Full Armor Gundam",
+      "header": "The FA-78-1 Full Armor Gundam, also known as Gundam Full Armor Type or Full Armor Gundam (Type A), was a variant of the RX-78-2 Gundam introduced in the original design series Mobile Suit Variation.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/a/a9/Full_Armor_Gundam.jpg",
+      "pilots": "Heinz Baer, Takashi Kitamoto, Fritz, Amuro Ray"
+    },
+    {
+      "id": 17,
+      "wikiName": "FA-78-2_Heavy_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/FA-78-2_Heavy_Gundam",
+      "name": "FA-78-2 Heavy Gundam",
+      "header": "The FA-78-2 Heavy Gundam is a mobile suit introduced in the MS-X series.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/0/0f/FA782_HeavyGundam2_-_Front.png",
+      "pilots": "Den Berserk"
+    },
+    {
+      "id": 18,
+      "wikiName": "RX-78SP_Gunner_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78SP_Gunner_Gundam",
+      "name": "RX-78SP Gunner Gundam",
+      "header": "The RX-78-SP Gunner Gundam is a variant of the RX-78-2 Gundam that first appeared in MSV-R.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/2/2b/Rx-78sp_1.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 19,
+      "wikiName": "FA-78_Full_Armor_Gundam_(Thunderbolt_Ver.)",
+      "wikiUrl": "https://gundam.fandom.com/wiki/FA-78_Full_Armor_Gundam_(Thunderbolt_Ver.)",
+      "name": "FA-78 Full Armor Gundam (Thunderbolt Ver.)",
+      "header": "Notes: Citations required The FA-78 Full Armor Gundam (Thunderbolt Ver.) is a mobile suit that appears in the manga Mobile Suit Gundam Thunderbolt and its animated adaptation. It is piloted by Io Fleming.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/6/66/Full_Armor_Gundam_Thunderbolt-ova.png",
+      "pilots": "Io Fleming"
+    },
+    {
+      "id": 20,
+      "wikiName": "Perfect_Gundam_(Thunderbolt_Ver.)",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Perfect_Gundam_(Thunderbolt_Ver.)",
+      "name": "Perfect Gundam (Thunderbolt Ver.)",
+      "header": "The Perfect Gundam is a custom mobile suit from the Mobile Suit Gundam Thunderbolt manga. It is piloted by Daryl Lorenz.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/e/e2/Perfect_Gundam_%28Thunderbolt%29_Front.png",
+      "pilots": "Daryl Lorenz"
+    },
+    {
+      "id": 21,
+      "wikiName": "RX-78XX_Gundam_Pixy",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78XX_Gundam_Pixy",
+      "name": "RX-78XX Gundam Pixy",
+      "header": "The RX-78XX Gundam Pixy&#160;(ガンダムピクシー) is a prototype close-quarters combat mobile suit introduced in the video game Mobile Suit Gundam: Cross Dimension 0079. known pilots included Bork Cry and Fred Reber.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/f/f7/Rx-78xx.jpg",
+      "pilots": "Bork Cry, Fred Reber, Doug Schneid, Doris Brand, Cortés, Lilith Aiden"
+    },
+    {
+      "id": 22,
+      "wikiName": "RX-79%EF%BC%BBG%EF%BC%BD_Gundam_Ground_Type",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79%EF%BC%BBG%EF%BC%BD_Gundam_Ground_Type",
+      "name": "RX-79%EF%BC%BBG%EF%BC%BD Gundam Ground Type",
+      "header": "“ This handles nothing like a GM at all! So this is what a Gundam's like... ” &#8212;Terry Sanders Jr. The RX-79[G] Gundam Ground Type is a limited production mobile suit introduced in the Mobile Suit Gundam: The 08th MS Team OVA.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/e/ec/Gundam_Ground_Type_Front_HD.png",
+      "pilots": "Shiro Amada, Terry Sanders Jr., Karen Joshua, Matt Healy, Kamuna Tachibana, Barry Balzary, Nao Jessica Parker, Sebastian Kurie, Michel Ninorich, Aina Sahalin, Itsuse Hiko Turner, Damon Keisley, Naomi Kudo"
+    },
+    {
+      "id": 23,
+      "wikiName": "RX-79%EF%BC%BBG%EF%BC%BDEz-8_Gundam_Ez8",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79%EF%BC%BBG%EF%BC%BDEz-8_Gundam_Ez8",
+      "name": "RX-79%EF%BC%BBG%EF%BC%BDEz-8 Gundam Ez8",
+      "header": "The RX-79[G]Ez-8 Gundam Ez8 is a customized RX-79[G] Gundam Ground Type introduced in the OVA Mobile Suit Gundam: The 08th MS Team and is piloted by Shiro Amada.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/7/75/Gundam_EZ8_Front_HD.png",
+      "pilots": "Shiro Amada, Aina Sahalin"
+    },
+    {
+      "id": 24,
+      "wikiName": "RX-79Ez-8/HAC_Gundam_Ez8_Heavy_Armed_Custom",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79Ez-8/HAC_Gundam_Ez8_Heavy_Armed_Custom",
+      "name": "RX-79Ez-8/HAC Gundam Ez8 Heavy Armed Custom",
+      "header": "The RX-79Ez-8/HAC Gundam Ez8 Heavy Armed Custom (Gundam Ez8 HAC for short) is a variant of RX-79Ez-8 Gundam Ez-8 Kai. It was introduced in the game SD Gundam G Generation Gather Beat.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/34/Ez8_HAC_-_Front_View.jpg",
+      "pilots": "Shiro Amada, Aina Sahalin"
+    },
+    {
+      "id": 25,
+      "wikiName": "RX-79Ez-8/HMC_Gundam_Ez8_High_Mobility_Custom",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79Ez-8/HMC_Gundam_Ez8_High_Mobility_Custom",
+      "name": "RX-79Ez-8/HMC Gundam Ez8 High Mobility Custom",
+      "header": "The RX-79Ez-8/HMC Gundam Ez8 High Mobility Custom, often called Gundam Ez8 HMC for short, is a variant of the RX-79Ez-8 Gundam Ez-8 Kai. It was introduced in the game SD Gundam G Generation Gather Beat.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/7/78/Rx-79ez-8-hmc.jpg",
+      "pilots": "Shiro Amada, Aina Sahalin"
+    },
+    {
+      "id": 26,
+      "wikiName": "RX-79%EF%BC%BBG%EF%BC%BDF_Slyfrail",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79%EF%BC%BBG%EF%BC%BDF_Slyfrail",
+      "name": "RX-79%EF%BC%BBG%EF%BC%BDF Slyfrail",
+      "header": "The RX-79[G]F Slyfrail is a customized RX-79［G］ Gundam Ground Type introduced in the video game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/5e/RX-79_G_F_Sliferail.png",
+      "pilots": ""
+    },
+    {
+      "id": 27,
+      "wikiName": "RX-79%EF%BC%BBG%EF%BC%BDSW_Slave_Wraith",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79%EF%BC%BBG%EF%BC%BDSW_Slave_Wraith",
+      "name": "RX-79%EF%BC%BBG%EF%BC%BDSW Slave Wraith",
+      "header": "The RX-79[G]SW Slave Wraith is a mobile suit introduced in the video game Mobile Suit Gundam Side Story: Missing Link.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/c/c7/Slave_Wraith_Front.png",
+      "pilots": "Travis Kirkland"
+    },
+    {
+      "id": 28,
+      "wikiName": "RX-79BD-1_Blue_Destiny_Unit_1",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79BD-1_Blue_Destiny_Unit_1",
+      "name": "RX-79BD-1 Blue Destiny Unit 1",
+      "header": "The RX-79BD-1 Blue Destiny Unit 1 is a variant of the RX-79[G] Gundam Ground Type introduced in Mobile Suit Gundam Side Story: The Blue Destiny and was piloted by Yuu Kajima.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/f/f1/Rx-79bd-1.jpg",
+      "pilots": "Yuu Kajima, Claire Kilmer"
+    },
+    {
+      "id": 29,
+      "wikiName": "RX-79BD-2_Blue_Destiny_Unit_2",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79BD-2_Blue_Destiny_Unit_2",
+      "name": "RX-79BD-2 Blue Destiny Unit 2",
+      "header": "Notes: Citations required The RX-79BD-2 Blue Destiny Unit 2 is a variant of the RX-79［G］ Gundam Ground Type introduced in the game Mobile Suit Gundam Side Story: The Blue Destiny. It belonged to the Earth Federation Forces before it was stolen by the Principality of Zeon and piloted by Nimbus Schterzen.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/c/ca/Rx-79bd-2.jpg",
+      "pilots": "Nimbus Schterzen"
+    },
+    {
+      "id": 30,
+      "wikiName": "RX-79BD-3_Blue_Destiny_Unit_3",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-79BD-3_Blue_Destiny_Unit_3",
+      "name": "RX-79BD-3 Blue Destiny Unit 3",
+      "header": "The RX-79BD-3 Blue Destiny Unit 3 is a variant of the RX-79(G) Gundam Ground Type introduced in the game Mobile Suit Gundam Side Story: The Blue Destiny, and was primarily piloted by Yuu Kajima.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/e/ef/Rx-79bd-3.jpg",
+      "pilots": "Yuu Kajima"
+    },
+    {
+      "id": 31,
+      "wikiName": "RX-78EX-PH-1_Zephyr_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78EX-PH-1_Zephyr_Gundam",
+      "name": "RX-78EX-PH-1 Zephyr Gundam",
+      "header": "The RX-78EX-PH-1 Zephyr Gundam \"Zephyr Phantom\" appeared in the manga Outer Gundam and was designed by Masafumi Matsuura.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/e/e7/Rx-78ex-ph-1.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 32,
+      "wikiName": "RXX_G-Dummy",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RXX_G-Dummy",
+      "name": "RXX G-Dummy",
+      "header": "The RXX G-Dummy is a mobile suit featured in PILLOW TALK GUNDAM NIGHT=HAWKS!.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/c/c0/G-Dummy_-_Front.png",
+      "pilots": "Chaamin Brown"
+    },
+    {
+      "id": 33,
+      "wikiName": "RX-78NT-1_Gundam_NT-1",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78NT-1_Gundam_NT-1",
+      "name": "RX-78NT-1 Gundam NT-1",
+      "header": "The RX-78NT-1 Gundam NT-1, nicknamed Alex, was a Newtype-use mobile suit created by the Earth Federation Forces. It was introduced in the OVA Mobile Suit Gundam 0080: War in the Pocket.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/1/1a/RX-78NT-1.jpg",
+      "pilots": "Christina Mackenzie, Eesaku"
+    },
+    {
+      "id": 34,
+      "wikiName": "FA-78NT-1_Full_Armor_Alex",
+      "wikiUrl": "https://gundam.fandom.com/wiki/FA-78NT-1_Full_Armor_Alex",
+      "name": "FA-78NT-1 Full Armor Alex",
+      "header": "The FA-78NT-1 Full Armor Alex (aka FA-78NT-1 Full Armor Gundam NT-1) was a variant of the RX-78NT-1 Gundam NT-1 introduced in Mobile Suit Gundam 0080 MSV. It later appeared in Mobile Suit Gundam Katana.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/b/bf/FA-78-NT-1_Full_Armor_Gundam_NT-1.png",
+      "pilots": "Kotetsu"
+    },
+    {
+      "id": 35,
+      "wikiName": "MRX-002_Newtype_Use_Prototype_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/MRX-002_Newtype_Use_Prototype_Gundam",
+      "name": "MRX-002 Newtype Use Prototype Gundam",
+      "header": "The MRX-002 Newtype Use Prototype Gundam is a prototype mobile suit from the MSV90 design series featured in the Comic BonBon March 1990 issue. It was illustrated by Tatsuya Tomosugi.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/a/aa/84772_mrx-002_122_741lo.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 36,
+      "wikiName": "RX-78NT-X_NT-X",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78NT-X_NT-X",
+      "name": "RX-78NT-X NT-X",
+      "header": "The RX-78NT-X (MRX-003) NT-X (pronounced Netix) is a Mobile Suit which was featured in the video game SD Gundam G Generation Series.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/a/a1/RX-78NT-X_NT-X.png",
+      "pilots": "Rachel Ransom, Kotezu"
+    },
+    {
+      "id": 37,
+      "wikiName": "RX-78AN-01_Gundam_AN-01_%22Tristan%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78AN-01_Gundam_AN-01_%22Tristan%22",
+      "name": "RX-78AN-01 Gundam AN-01 %22Tristan%22",
+      "header": "The RX-78AN-01 Gundam AN-01 \"Tristan\" is a mobile suit from the Mobile Suit Gundam Twilight Axis light novel, its ONA adaptation, as well as the manga adaptation.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/e/e0/Gundam_AN-01_Tristan_%28Anime%29_-_Front.png",
+      "pilots": "Quentin Fermo"
+    },
+    {
+      "id": 38,
+      "wikiName": "RX-78AN-01FA_Gundam_Tristan_%E3%80%88Failnaught%E3%80%89",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78AN-01FA_Gundam_Tristan_%E3%80%88Failnaught%E3%80%89",
+      "name": "RX-78AN-01FA Gundam Tristan %E3%80%88Failnaught%E3%80%89",
+      "header": "The RX-78AN-01FA Gundam Tristan〈Failnaught〉 is a mobile suit from the Mobile Suit Gundam Twilight Axis (Manga). A full armor form of the RX-78AN-01 Gundam AN-01 \"Tristan\", it appears in place of the RX-78KU-01 Kurwenal in the manga.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/38/Tristan_Failnought_Front.png",
+      "pilots": "Quentin Fermo"
+    },
+    {
+      "id": 39,
+      "wikiName": "RX-78AL_Atlas_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78AL_Atlas_Gundam",
+      "name": "RX-78AL Atlas Gundam",
+      "header": "The RX-78AL Atlas Gundam is a prototype mobile suit that appears in the manga Mobile Suit Gundam Thunderbolt and its animated adaptation. It is piloted by Io Flemming.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/a/a2/Rx-78al.jpg",
+      "pilots": "Io Fleming, Bianca Carlyle"
+    },
+    {
+      "id": 40,
+      "wikiName": "RX-78GP00_Gundam_%22Blossom%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP00_Gundam_%22Blossom%22",
+      "name": "RX-78GP00 Gundam %22Blossom%22",
+      "header": "The RX-78GP00 Gundam \"Blossom\" was a mobile suit introduced in the Dengeki Hobby Magazine project Mobile Suit Gundam Secret Weapons Phantom Bullets.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/6/66/GP00_Front.jpg",
+      "pilots": "Jack Bayard"
+    },
+    {
+      "id": 41,
+      "wikiName": "RX-78GP01_Gundam_%22Zephyranthes%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP01_Gundam_%22Zephyranthes%22",
+      "name": "RX-78GP01 Gundam %22Zephyranthes%22",
+      "header": "The RX-78GP01 Gundam \"Zephyranthes\" (aka Zephyranthes, GP01, Unit 1) is a prototype&#160;general-purpose mobile suit introduced in the Mobile Suit Gundam 0083: Stardust Memory OVA. It was piloted by Kou Uraki.&#160;",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/6/61/Gundam_GP01_Front.png",
+      "pilots": "Kou Uraki"
+    },
+    {
+      "id": 42,
+      "wikiName": "RX-78GP01Fa_Full_Armor_Zephyranthes",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP01Fa_Full_Armor_Zephyranthes",
+      "name": "RX-78GP01Fa Full Armor Zephyranthes",
+      "header": "The RX-78GP01Fa Full Armor Zephyranthes is a variant of the RX-78GP01 Gundam \"Zephyranthes\" introduced in the \"Master Archive Mobile Suit RX-78GP01 Gundam Zephyranthes\" Book.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/b/bf/RX-78GP01Fa_Full_Armor_Zephyranthes_Line_Art.png",
+      "pilots": ""
+    },
+    {
+      "id": 43,
+      "wikiName": "RX-78GP01-Fb_Gundam_%22Zephyranthes%22_Full_Burnern",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP01-Fb_Gundam_%22Zephyranthes%22_Full_Burnern",
+      "name": "RX-78GP01-Fb Gundam %22Zephyranthes%22 Full Burnern",
+      "header": "The RX-78GP01-Fb Gundam \"Zephyranthes\" Full Burnern is the upgraded space-use version of the RX-78GP01 Gundam \"Zephyranthes\" introduced in the OVA Mobile Suit Gundam 0083: Stardust Memory. it is piloted by Kou Uraki.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/1/19/Rx-78gp01-fb.jpg",
+      "pilots": "Kou Uraki"
+    },
+    {
+      "id": 44,
+      "wikiName": "RX-78GP02A_Gundam_%22Physalis%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP02A_Gundam_%22Physalis%22",
+      "name": "RX-78GP02A Gundam %22Physalis%22",
+      "header": "“ \"Magnificent. It's a superb mobile suit.\"\"I think so, too, sir.\" ” &#8212;Anavel Gato and Kou Uraki, while the former was disguised as a Federation officer The RX-78GP02A Gundam \"Physalis\" (RX-78GP02A ガンダム試作2号機 \"サイサリス\", Gandamu Shisaku Nigōki \"Saisarisu\"?), also known as Gundam Unit 2 (ガンダム2号機, Gandamu Nigōki?) and GP02A, is the second of four mobile suits in the Gundam Development Project featured in OVA Mobile Suit Gundam 0083: Stardust Memory. Originally belonging to Earth Federation, it was stolen and piloted by Delaz Fleet's ace pilot, Anavel Gato.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/d/d1/Anavel_Gato_Gundam_%22Physalis%22.jpeg",
+      "pilots": "Anavel Gato, Quattro Bajeena, MSG-Z Define, Kanesada Tsurugi, Largo Ford"
+    },
+    {
+      "id": 45,
+      "wikiName": "RX-78GP02A_Gundam_GP02A_(Type-MLRS)",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP02A_Gundam_GP02A_(Type-MLRS)",
+      "name": "RX-78GP02A Gundam GP02A (Type-MLRS)",
+      "header": "RX-78GP02A Gundam GP02A (Type-MLRS) is a variant of the RX-78GP02A Gundam \"Physalis\" introduced in the original design series Harmony of Gundam by Hajime Katoki.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/8/8d/RX-78GP02A_Gundam_GP02A_%28Type-MLRS%29_Front.png",
+      "pilots": "Kanesada Tsurugi"
+    },
+    {
+      "id": 46,
+      "wikiName": "RX-78GP03S_Gundam_%22Stamen%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP03S_Gundam_%22Stamen%22",
+      "name": "RX-78GP03S Gundam %22Stamen%22",
+      "header": "The RX-78GP03S Gundam \"Stamen\" (Development codename: Dendrobium Stamen) is a mobile suit that serves as the core unit for the RX-78GP03 Gundam \"Dendrobium\". It was introduced in Mobile Suit Gundam 0083: Stardust Memory&#160;OVA and was piloted by Kou Uraki.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/8/86/Rx-78gp03s.jpg",
+      "pilots": "Defrah Kar, Kou Uraki, Bernard Monsha"
+    },
+    {
+      "id": 47,
+      "wikiName": "RX-78GP03_Gundam_%22Dendrobium%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP03_Gundam_%22Dendrobium%22",
+      "name": "RX-78GP03 Gundam %22Dendrobium%22",
+      "header": "“ They call this thing a mobile suit? ” &#8212;Mora Boscht The RX-78GP03 (RX-78GP03D) Gundam \"Dendrobium\" (aka Dendrobium, GP03) is the third unit of the Gundam Development Project, and the combination of the mobile suit unit - the RX-78GP03S Gundam \"Stamen\" - and the armed base \"Orchis\". It was introduced in the OVA series Mobile Suit Gundam 0083: Stardust Memory and also featured in Episode 4 of Gundam Evolve. It was initially piloted by Anaheim test pilot Defrah Kar, and later by Federation MS pilot Kou Uraki.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/9/98/RX-78GP03%28GUNDAM_GP03_DENDROBIUM%29_front.jpg",
+      "pilots": "Defrah Kar, Kou Uraki, Kelley Layzner"
+    },
+    {
+      "id": 48,
+      "wikiName": "RX-78GP04G_Gundam_%22Gerbera%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GP04G_Gundam_%22Gerbera%22",
+      "name": "RX-78GP04G Gundam %22Gerbera%22",
+      "header": "The RX-78GP04G Gundam \"Gerbera\" is a prototype general purpose mobile suit (assault type) and the fifth of five mobile suits in the Gundam Development Project, appearing in Mobile Suit Gundam: Encounters in Space and Mobile Suit Gundam: Gihren's Greed. It was eventually developed into the AGX-04 Gerbera Tetra.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/9/95/Gerbera_front_wiew_Re-illustration_by_Kyoshi_Takigawa.jpg",
+      "pilots": "Leos Alloy, Clara Lodge, Peche Montagne"
+    },
+    {
+      "id": 51,
+      "wikiName": "RX-121_Gundam_TR-1_%EF%BC%BBHazel%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121_Gundam_TR-1_%EF%BC%BBHazel%EF%BC%BD",
+      "name": "RX-121 Gundam TR-1 %EF%BC%BBHazel%EF%BC%BD",
+      "header": "The RX-121 Gundam TR-1 [Hazel] is a Mobile Suit featured in the photo-novel and manga Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/31/Rx-121.jpg",
+      "pilots": "Wes Murphy"
+    },
+    {
+      "id": 53,
+      "wikiName": "RX-121-1_Gundam_TR-1_%EF%BC%BBHazel_Custom%EF%BC%BD_Icarus_Unit",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-1_Gundam_TR-1_%EF%BC%BBHazel_Custom%EF%BC%BD_Icarus_Unit",
+      "name": "RX-121-1 Gundam TR-1 %EF%BC%BBHazel Custom%EF%BC%BD Icarus Unit",
+      "header": "The RX-121-1 Gundam TR-1 [Hazel Custom] Icarus Unit is a prototype high mobility variant of the RX-121-1 Gundam TR-1 [Hazel Custom]&#160;. It is featured in&#160;Advance of Zeta: The Flag of Titans&#160;series.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/f/fc/Rx-121-1-icarus.jpg",
+      "pilots": "Wes Murphy"
+    },
+    {
+      "id": 55,
+      "wikiName": "RX-121-1_Gundam_TR-1_%EF%BC%BBHazel_Custom%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-1_Gundam_TR-1_%EF%BC%BBHazel_Custom%EF%BC%BD",
+      "name": "RX-121-1 Gundam TR-1 %EF%BC%BBHazel Custom%EF%BC%BD",
+      "header": "The RX-121 Gundam TR-1 [Hazel Custom] is the upgraded form of the RX-121 Gundam TR-1 [Hazel]&#160; from the Universal Century timeline. It was featured in Advance of Zeta: The Flag of Titans. The unit is piloted by Wes Murphy.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/38/Hazel_custom.jpg",
+      "pilots": "Wes Murphy, Eliard Hunter, Audrey April"
+    },
+    {
+      "id": 56,
+      "wikiName": "RX-121-1%2BFF-X29A_Gundam_TR-1_%EF%BC%BBHazel-Rah%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-1%2BFF-X29A_Gundam_TR-1_%EF%BC%BBHazel-Rah%EF%BC%BD",
+      "name": "RX-121-1%2BFF-X29A Gundam TR-1 %EF%BC%BBHazel-Rah%EF%BC%BD",
+      "header": "The RX-121-1+FF-X29A Gundam TR-1 [Hazel-Rah] is the combined version of the RX-121-1 Gundam TR-1 [Hazel Custom]​ with the FF-X29A G-Parts [Hrududu]​. It appears in the Advance of Zeta: The Flag of Titans manga.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/8/84/Rx-121-1plusff-x29a.jpg",
+      "pilots": "Audrey April"
+    },
+    {
+      "id": 57,
+      "wikiName": "RX-121-1%2BFF-X29A_Gundam_TR-1_%EF%BC%BBHazel-Rah%EF%BC%BD_Second_Form",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-1%2BFF-X29A_Gundam_TR-1_%EF%BC%BBHazel-Rah%EF%BC%BD_Second_Form",
+      "name": "RX-121-1%2BFF-X29A Gundam TR-1 %EF%BC%BBHazel-Rah%EF%BC%BD Second Form",
+      "header": "The RX-121-1+FF-X29A Gundam TR-1 [Hazel-Rah] Second Form is a mobile suit appearing in the manga Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/d/da/Rx-121-second.jpg",
+      "pilots": "Audrey April"
+    },
+    {
+      "id": 58,
+      "wikiName": "RX-121-2_Gundam_TR-1_%EF%BC%BBHazel_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-2_Gundam_TR-1_%EF%BC%BBHazel_II%EF%BC%BD",
+      "name": "RX-121-2 Gundam TR-1 %EF%BC%BBHazel II%EF%BC%BD",
+      "header": "The RX-121-2 Gundam TR-1 [Hazel II] is a mobile Suit from the Gundam Universal Century timeline. It is a variant of the RX-121 Gundam TR-1 ［Hazel］ featured in the Advance of Zeta: The Flag of Titans manga. The unit is piloted by Eliard Hunter.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/a/a8/Hazel-II-early.gif",
+      "pilots": "Eliard Hunter"
+    },
+    {
+      "id": 59,
+      "wikiName": "RX-121-2A_Gundam_TR-1_%EF%BC%BBAdvanced_Hazel%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-2A_Gundam_TR-1_%EF%BC%BBAdvanced_Hazel%EF%BC%BD",
+      "name": "RX-121-2A Gundam TR-1 %EF%BC%BBAdvanced Hazel%EF%BC%BD",
+      "header": "The RX-121-2A Gundam TR-1 [Advanced Hazel] is a mobile Suit that appears in Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/c/c6/Rx-121-2a.jpg",
+      "pilots": "Eliard Hunter, Audrey April, Carl Matsubara"
+    },
+    {
+      "id": 60,
+      "wikiName": "RX-121-2P_Gundam_TR-1_%EF%BC%BBHazel_Owsla%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-2P_Gundam_TR-1_%EF%BC%BBHazel_Owsla%EF%BC%BD",
+      "name": "RX-121-2P Gundam TR-1 %EF%BC%BBHazel Owsla%EF%BC%BD",
+      "header": "The RX-121-2P Gundam TR-1 [Hazel Owsla] is a Mobile Suit that appears in Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/f/fb/Hazel_Owsla_base_unit_titans.png",
+      "pilots": "Carl Matsubara"
+    },
+    {
+      "id": 61,
+      "wikiName": "RX-121-2P_Gundam_TR-1_%EF%BC%BBHazel_Owsla%EF%BC%BD_Gigantic_Arm_Unit",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-2P_Gundam_TR-1_%EF%BC%BBHazel_Owsla%EF%BC%BD_Gigantic_Arm_Unit",
+      "name": "RX-121-2P Gundam TR-1 %EF%BC%BBHazel Owsla%EF%BC%BD Gigantic Arm Unit",
+      "header": "The RX-121-2P Gundam TR-1 [Hazel Owsla] Gigantic Arm Unit is a variant of the RX-121-2 Gundam TR-1 [Hazel Owsla] equipped with the arms of the MRX-009 Psycho Gundam. It appears in Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/6/63/Rx-121-2-owsla-gau.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 62,
+      "wikiName": "RX-121-2_Gundam_TR-1_%EF%BC%BBFiver_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-2_Gundam_TR-1_%EF%BC%BBFiver_II%EF%BC%BD",
+      "name": "RX-121-2 Gundam TR-1 %EF%BC%BBFiver II%EF%BC%BD",
+      "header": "The RX-121-2 Gundam TR-1 [Fiver II] is the final variant of the RX-121-2 Gundam TR-1 [Hazel Owsla]​. It is featured in Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "",
+      "pilots": "Carl Matsubara"
+    },
+    {
+      "id": 63,
+      "wikiName": "RX-121-3C_Gundam_TR-1_%EF%BC%BBHaze%27n-thley%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-3C_Gundam_TR-1_%EF%BC%BBHaze%27n-thley%EF%BC%BD",
+      "name": "RX-121-3C Gundam TR-1 %EF%BC%BBHaze%27n-thley%EF%BC%BD",
+      "header": "The RX-121-3C Gundam TR-1 [Haze'n-thley] is a Mobile Suit appearing in the settings material of Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/2/21/Haze-hyzenthley-front.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 65,
+      "wikiName": "RX-121-3C_Gundam_TR-1_%EF%BC%BBHaze%27n-thley-Rah_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-121-3C_Gundam_TR-1_%EF%BC%BBHaze%27n-thley-Rah_II%EF%BC%BD",
+      "name": "RX-121-3C Gundam TR-1 %EF%BC%BBHaze%27n-thley-Rah II%EF%BC%BD",
+      "header": "The RX-121-3C Gundam TR-1 [Haze'n-thley-Rah II] is a mobile suit that appears in the Advance of Zeta: The Flag of Titans series.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/55/Hyzenthlay-rah-i.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 66,
+      "wikiName": "RX-123_Gundam_TR-S%EF%BC%BBEl-Ahrairah%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-123_Gundam_TR-S%EF%BC%BBEl-Ahrairah%EF%BC%BD",
+      "name": "RX-123 Gundam TR-S%EF%BC%BBEl-Ahrairah%EF%BC%BD",
+      "header": "The RX-123 Gundam TR-S [El-Ahrairah] is a mobile armor appearing in Advance of Zeta Re-Boot: Gundam Inle. The RX-123 Gundam TR-S［Hazel Hrair］ serves as the main body that is equipped with specialized reinforcement parts.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/51/RX-123_Gundam_TR-S_El-Ahrairah.png",
+      "pilots": ""
+    },
+    {
+      "id": 67,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBWoundwort%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBWoundwort%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBWoundwort%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Woundwort] is the last TR series mobile suit produced by the Titans Test Team. The unit appears in the Advance of Zeta: The Flag of Titans manga.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/7/73/Rx-124-woundwort-ms.jpg",
+      "pilots": "Eliard Hunter"
+    },
+    {
+      "id": 68,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBHaze%27n-thley_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBHaze%27n-thley_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBHaze%27n-thley II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Haze'n-thley II] (also known as the RX-124HS Gundam TR-6 [Advanced Woundwort] Haze'n-thley II Form) is an experimental mobile suit that appears in Advance of Zeta: The Flag of Titans and Advance of Zeta Re-Boot: Gundam Inle.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/c/c8/RX-124_GUNDAM_TR-6_HAZE%E2%80%99N-THLEY%E2%85%A1-_Front.png",
+      "pilots": "Eliard Hunter"
+    },
+    {
+      "id": 69,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBHaze%27n-thley_II-Rah%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBHaze%27n-thley_II-Rah%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBHaze%27n-thley II-Rah%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Haze'n-thley II-Rah] (also known as the Gundam TR-6 [Advanced Woundwort Ex]) is a transformable mobile suit that appears in the novel Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/a/a2/Woundwort-ex.jpg",
+      "pilots": "Eliard Hunter"
+    },
+    {
+      "id": 70,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBDandelion_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBDandelion_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBDandelion II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Dandelion II] appears in the photo novel Advance of Zeta: The Flag of Titans. The Dandelion II is named after the character Dandelion (fictional rabbit character from Watership Down).",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/e/ec/Dandelion-II.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 71,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBFiver_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBFiver_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBFiver II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Fiver II] is a mobile weapon that appears in the photo novel Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/a/a2/Fiver-2.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 72,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBInle%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBInle%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBInle%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Inle] is a variable mobile armor featured in the photo novel Advance of Zeta: The Flag of Titans. The Inle is a combination of multiple TR-6 forms, the Dandelion II form and the Fiver II form of the RX-124 Gundam TR-6 [Woundwort].",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/1/1f/Rx-124-tr-6-inle.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 73,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBPsyco_Inle%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBPsyco_Inle%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBPsyco Inle%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Psyco Inle] is a concept mobile armor from Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/5b/Psyco-inle.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 74,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBHrairoo_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBHrairoo_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBHrairoo II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Hrairoo II] is a mobile suit that appears in the novel Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/50/Hrairoo-ii.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 75,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBKehaar_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBKehaar_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBKehaar II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Kehaar II] is a mobile suit that appears in the photo novel Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/9/9f/Kehaar-II_ms.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 76,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBAdvanced_Kehaar_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBAdvanced_Kehaar_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBAdvanced Kehaar II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Advanced Kehaar II] is a variant of the RX-124 Gundam TR-6 [Kehaar II]​ produced by the Titans Test Team. The unit appears in the Advance of Zeta: The Flag of Titans novel.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/32/RX-124_Gundam_TR-6_%28Advanced_Kehaar_II%29_-_MS_Mode.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 77,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBWoundwort-Rah%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBWoundwort-Rah%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBWoundwort-Rah%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Woundwort-Rah] is a variant of the TR-6 [Woundwort] series produced by the Titans Test Team. The unit appears in Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/2/2f/Woundwort-rah.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 78,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBWoundwort%EF%BC%BD_Gigantic_Mode",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBWoundwort%EF%BC%BD_Gigantic_Mode",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBWoundwort%EF%BC%BD Gigantic Mode",
+      "header": "The RX-124 Gundam TR-6 [Woundwort] Gigantic Mode, also known as the RX-124 Gundam TR-6 [Woundwort] Psycho Gundam Mk-II Gigantic Arm Unit, is a variant of the Gundam TR-6 Woundwort produced by the Titans Test Team. The unit appears in the Advance of Zeta: The Flag of Titans novel.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/5c/Woundwort-gau.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 79,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBHi-Zack_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBHi-Zack_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBHi-Zack II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Hi-Zack II] is a variant of the TR-6 [Woundwort] series produced by The Titan Test Team. The unit appears in the Advance of Zeta: The Flag of Titans manga.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/9/96/Tr-6-hizack.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 80,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBHazel_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBHazel_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBHazel II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Hazel II] is a variant of the TR-6 [Woundwort] series produced by the Titans Test Team. The unit appears in the Advance of Zeta: The Flag of Titans novel.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/5a/Tr-6-hazel-ii-blue.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 81,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBGaplant_II%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBGaplant_II%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBGaplant II%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Gaplant II] is a variant of the TR-6 [Woundwort] series produced by the Titans Test Team. It appears in the Advance of Zeta: The Flag of Titans novel.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/8/8a/Gaplant-ii.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 82,
+      "wikiName": "RX-124_Gundam_TR-6_%EF%BC%BBQueenly%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-124_Gundam_TR-6_%EF%BC%BBQueenly%EF%BC%BD",
+      "name": "RX-124 Gundam TR-6 %EF%BC%BBQueenly%EF%BC%BD",
+      "header": "The RX-124 Gundam TR-6 [Queenly] (also known as the Gundam TR-6 [Woundwort] Base Defense Form) is a mobile suit variant of the RX-124 Gundam TR-6 [Woundwort] that appears in Advance of Zeta: The Flag of Titans.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/7/7b/Tr-6_base.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 83,
+      "wikiName": "ARZ-125_Re-Haze",
+      "wikiUrl": "https://gundam.fandom.com/wiki/ARZ-125_Re-Haze",
+      "name": "ARZ-125 Re-Haze",
+      "header": "The ARZ-125 Re-Haze (aka Re-Hyze) is a transformable mobile suit from Advance of Zeta Re-Boot: Gundam Inle . It is piloted by Alicia Zabi.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/57/Re-hize_01.jpeg",
+      "pilots": "Alicia Zabi"
+    },
+    {
+      "id": 84,
+      "wikiName": "MSW-004_Gundam_%EF%BC%BBKestrel%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/MSW-004_Gundam_%EF%BC%BBKestrel%EF%BC%BD",
+      "name": "MSW-004 Gundam %EF%BC%BBKestrel%EF%BC%BD",
+      "header": "The MSW-004 Gundam [Kestrel] is a mobile suit that appears in the Advance of Zeta: The Traitor to Destiny series of light novels. It is piloted by Van Asiliaino.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/6/63/MSW-004_Gundam_Kestrel-Front.jpg",
+      "pilots": "Van Asiliaino"
+    },
+    {
+      "id": 85,
+      "wikiName": "MSW-004_Gundam_(Kestrel)_Maneuver_Exterior",
+      "wikiUrl": "https://gundam.fandom.com/wiki/MSW-004_Gundam_(Kestrel)_Maneuver_Exterior",
+      "name": "MSW-004 Gundam (Kestrel) Maneuver Exterior",
+      "header": "The MSW-004 Gundam [Kestrel] Maneuver Exterior is a variant of the MSW-004 Gundam [Kestrel]. It appears in the Advance of Zeta: The Traitor to Destiny series of light novels. It is piloted by Van Asiliaino.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/4/48/Gundam-kestrel-exterior-maneuver.png",
+      "pilots": "Van Asiliaino"
+    },
+    {
+      "id": 86,
+      "wikiName": "MSW-004_Gundam_(Kestrel)_Armor_Exterior",
+      "wikiUrl": "https://gundam.fandom.com/wiki/MSW-004_Gundam_(Kestrel)_Armor_Exterior",
+      "name": "MSW-004 Gundam (Kestrel) Armor Exterior",
+      "header": "The MSW-004 Gundam [Kestrel] Armor Exterior is a variant of the MSW-004 Gundam [Kestrel] from the Advance of Zeta: The Traitor to Destiny series of light novels. It is piloted by Van Asiliaino.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/b/bb/Msw-004-armor.jpg",
+      "pilots": "Van Asiliaino"
+    },
+    {
+      "id": 87,
+      "wikiName": "MSW-004_Full-Armor_Kestrel",
+      "wikiUrl": "https://gundam.fandom.com/wiki/MSW-004_Full-Armor_Kestrel",
+      "name": "MSW-004 Full-Armor Kestrel",
+      "header": "The MSW-004 Gundam Full Armor [Kestrel] is a variant of the MSW-004 Gundam [Kestrel] from the Advance of Zeta: The Traitor to Destiny series of light novels. It is piloted by Van Asiliaino.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/6/60/FA_Kestrel_f.png",
+      "pilots": "Van Asiliaino"
+    },
+    {
+      "id": 88,
+      "wikiName": "MSS-008_Le_Cygne",
+      "wikiUrl": "https://gundam.fandom.com/wiki/MSS-008_Le_Cygne",
+      "name": "MSS-008 Le Cygne",
+      "header": "MSS-008 Le Cygne (pronounced \"Luh Seen\", French for \"The Swan\") is a prototype mobile suit fundamentally designed for Newtype pilot Asuna Elmarit. It is featured in the manga series Mobile Suit Gundam École du Ciel.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/9/90/Le_Cygne_f.png",
+      "pilots": "Asuna Elmarit, Hansel Binokkeru"
+    },
+    {
+      "id": 89,
+      "wikiName": "ORX-008_Gundam_%EF%BC%BBGullinbursti%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/ORX-008_Gundam_%EF%BC%BBGullinbursti%EF%BC%BD",
+      "name": "ORX-008 Gundam %EF%BC%BBGullinbursti%EF%BC%BD",
+      "header": "The ORX-008 Gundam ［Gullinbursti］ is a mobile suit from the Advance of Zeta: The Traitor to Destiny light novel series. Its pilot is Yohn Juliana.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/e/eb/Gundam_Gullinbursti.jpg",
+      "pilots": "Yohn Juliana"
+    },
+    {
+      "id": 90,
+      "wikiName": "ORX-009_Gundam_%EF%BC%BBSk%C3%B6ll%EF%BC%BD",
+      "wikiUrl": "https://gundam.fandom.com/wiki/ORX-009_Gundam_%EF%BC%BBSk%C3%B6ll%EF%BC%BD",
+      "name": "ORX-009 Gundam %EF%BC%BBSk%C3%B6ll%EF%BC%BD",
+      "header": "The ORX-009 Gundam ［Sköll］ is a mobile suit from the Advance of Zeta The Traitor to Destiny: Blue Wings of the AEUG light novel series. It is piloted by Ernest McGuire.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/5/5f/Orx-009-front.jpg",
+      "pilots": "Ernest McGuire"
+    },
+    {
+      "id": 91,
+      "wikiName": "RX-78MS00Z_%22Engage_Zero%22",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78MS00Z_%22Engage_Zero%22",
+      "name": "RX-78MS00Z %22Engage Zero%22",
+      "header": "The RX-78MS00Z \"Engage Zero\" (エンゲージゼロ, Engēji Zero?), also called the Gundam Development Test Unit 0 (Engage Zero) (ガンダム開発試験0番機（エンゲージゼロ）, Gundam Development Test Unit 0 (Engage Zero)?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE. It was also formerly referred to as the RX-78 MS00Z Gundam GP00 (Engage Zero), but this usage was phased out to better differentiate it from the RX-78GP00 Gundam Prototype Unit 0.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/6/63/MSUCE_Engage_Zero_Front.jpg",
+      "pilots": "Peche Montagne"
+    },
+    {
+      "id": 92,
+      "wikiName": "RX-78MS00Z-B_Engage_Zero_Additional_Booster_Equipment_Type",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78MS00Z-B_Engage_Zero_Additional_Booster_Equipment_Type",
+      "name": "RX-78MS00Z-B Engage Zero Additional Booster Equipment Type",
+      "header": "The RX-78MS00Z-B Engage Zero Additional Booster Equipment Type (エンゲージゼロ・追加ブースター装備型, Engēji Zero Tsuika Būsutā Sōbi-gata?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/7/7b/RX-78MS00Z-B_Engage_Zero_Additional_Booster_Equipment_Type_%28Front%29.png",
+      "pilots": "Peche Montagne"
+    },
+    {
+      "id": 93,
+      "wikiName": "ORX-00Z_Engage_Zero_Psycommu_Test_Type",
+      "wikiUrl": "https://gundam.fandom.com/wiki/ORX-00Z_Engage_Zero_Psycommu_Test_Type",
+      "name": "ORX-00Z Engage Zero Psycommu Test Type",
+      "header": "The ORX-00Z Engage Zero Psycommu Test Type (エンゲージゼロ・サイコミュ試験型, Engēji Zero Saikomyu Shiken-gata?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/30/Engage_Zero_Psycommu_Test_Type.png",
+      "pilots": "Peche Montagne"
+    },
+    {
+      "id": 94,
+      "wikiName": "ORX-00Z-2_Engage_Zero_INCOM-equipped_Type",
+      "wikiUrl": "https://gundam.fandom.com/wiki/ORX-00Z-2_Engage_Zero_INCOM-equipped_Type",
+      "name": "ORX-00Z-2 Engage Zero INCOM-equipped Type",
+      "header": "The ORX-00Z-2 Engage Zero INCOM-equipped Type (エンゲージゼロ・インコム搭載型, Engēji Zero Inkomu Tōsai-gata?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/4/49/Engage_Zero_Incom_%28EFF%29_Front.png",
+      "pilots": "Peche Montagne, Celine Rom"
+    },
+    {
+      "id": 95,
+      "wikiName": "AMX-00Z_Engage_Zero_Yonghwavin",
+      "wikiUrl": "https://gundam.fandom.com/wiki/AMX-00Z_Engage_Zero_Yonghwavin",
+      "name": "AMX-00Z Engage Zero Yonghwavin",
+      "header": "The AMX-00Z Engage Zero Yonghwavin (エンゲージゼロ・ヨンファヴィン, Engēji Zero Yonfavu~in?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/b/bb/Engage_Zero_Yongwafin.png",
+      "pilots": "Peche Montagne"
+    },
+    {
+      "id": 96,
+      "wikiName": "RX-78GPZ01_Engage_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/RX-78GPZ01_Engage_Gundam",
+      "name": "RX-78GPZ01 Engage Gundam",
+      "header": "The RX-78GPZ01 Engage Gundam (エンゲージガンダム, Engēji Gandamu?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/d/d8/Engage_Gundam_Front.png",
+      "pilots": ""
+    },
+    {
+      "id": 97,
+      "wikiName": "Engage_Gundam_Cannon_Equipment",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Engage_Gundam_Cannon_Equipment",
+      "name": "Engage Gundam Cannon Equipment",
+      "header": "The Engage Gundam Cannon Equipment (エンゲージガンダム キャノン装備, Engēji Gandamu Kyanon Sōbi?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/3/35/Engage_Gundam_Cannon_Equipment_%28Front%29.jpg",
+      "pilots": ""
+    },
+    {
+      "id": 98,
+      "wikiName": "Engage_Gundam_Heavy_Armor_Equipment",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Engage_Gundam_Heavy_Armor_Equipment",
+      "name": "Engage Gundam Heavy Armor Equipment",
+      "header": "The Engage Gundam Heavy Armor Equipment (エンゲージガンダム 重装甲装備, Engēji Gandamu Jū Sōkō Sōbi?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/e/e9/Engage_Gundam_Heavy_Armor_Equipment_%28Front%29.png",
+      "pilots": ""
+    },
+    {
+      "id": 99,
+      "wikiName": "Super_Engage_Gundam",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Super_Engage_Gundam",
+      "name": "Super Engage Gundam",
+      "header": "The Super Engage Gundam (スーパーエンゲージガンダム, Sūpāengējigandamu?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/0/0a/Super_Engage_Gundam_Front_HD.png",
+      "pilots": ""
+    },
+    {
+      "id": 100,
+      "wikiName": "Engage_Gundam_Booster_Equipment",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Engage_Gundam_Booster_Equipment",
+      "name": "Engage Gundam Booster Equipment",
+      "header": "The Engage Gundam Booster Equipment (エンゲージガンダムブースター装備, Engēji Gandamu Būsutā Sōbi?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/f/f9/Engage_Gundam_Booster_Front.png",
+      "pilots": ""
+    },
+    {
+      "id": 101,
+      "wikiName": "Engage_Gundam_INCOM_Equipment",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Engage_Gundam_INCOM_Equipment",
+      "name": "Engage Gundam INCOM Equipment",
+      "header": "The Engage Gundam INCOM Equipment (エンゲージガンダム インコム装備, Engēji Gandamu Inkomu Sōbi?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/0/0e/MSUCE_Engage_Gundam_Incom_Equipment.png",
+      "pilots": ""
+    },
+    {
+      "id": 102,
+      "wikiName": "Engage_Gundam_Funnel_Equipment",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Engage_Gundam_Funnel_Equipment",
+      "name": "Engage Gundam Funnel Equipment",
+      "header": "The Engage Gundam Funnel Equipment (エンゲージガンダムファンネル装備, Engēji Gandamu Fan'neru Sōbi?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "",
+      "pilots": ""
+    },
+    {
+      "id": 103,
+      "wikiName": "Engage_Gundam_BWS_Equipment",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Engage_Gundam_BWS_Equipment",
+      "name": "Engage Gundam BWS Equipment",
+      "header": "The Engage Gundam BWS Equipment (エンゲージガンダム BWS装備, Engēji Gandamu BWS Sōbi?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/8/84/Engage_Gundam_BWS_Equipment_front.png",
+      "pilots": ""
+    },
+    {
+      "id": 104,
+      "wikiName": "Full_Armor_Engage_Gundam_A_Plan",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Full_Armor_Engage_Gundam_A_Plan",
+      "name": "Full Armor Engage Gundam A Plan",
+      "header": "The Full Armor Engage Gundam A Plan (フルアーマー・エンゲージガンダム Aプラン, Furuāmā Engējigandamu A Puran?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/1/19/FA_Engage_Gundam_A_Plan_Front.png",
+      "pilots": ""
+    },
+    {
+      "id": 105,
+      "wikiName": "Full_Armor_Engage_Gundam_B_Plan",
+      "wikiUrl": "https://gundam.fandom.com/wiki/Full_Armor_Engage_Gundam_B_Plan",
+      "name": "Full Armor Engage Gundam B Plan",
+      "header": "The Full Armor Engage Gundam B Plan (フルアーマー・エンゲージガンダム Bプラン, Furuāmā Engējigandamu B Puran?) is a mobile suit first introduced in the smartphone game Mobile Suit Gundam U.C. ENGAGE.",
+      "details": null,
+      "imgUrl": "https://static.wikia.nocookie.net/gundam/images/7/7b/Full_Armor_Engage_Gundam_B_Plan_%28front%29.png",
+      "pilots": ""
+    }
+  ]
+}
